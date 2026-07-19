@@ -1,0 +1,15 @@
+# Compiled Java files
+*.class
+
+# Build directories
+out/
+build/
+target/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
