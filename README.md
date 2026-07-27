@@ -1,3 +1,8 @@
+NAME : DIKSHANT KUMAR 
+DOMAIN : JAVA PROGRAMMING 
+INTERN ID : CITS6887
+
+
 # Scientific-Calculator-Java-
 A Java-based scientific calculator with a graphical user interface and multiple mathematical operations.
 # Scientific Calculator Java
